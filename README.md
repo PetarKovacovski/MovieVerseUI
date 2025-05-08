@@ -2,7 +2,7 @@
 
 A React frontend built with Vite for the MovieVerse API (Node.js + MongoDB backend).
 
-## 🚀 Setup
+## Setup
 
 1. **Install dependencies**
 
@@ -24,7 +24,7 @@ A React frontend built with Vite for the MovieVerse API (Node.js + MongoDB backe
      API_URL=http://localhost:3000/api
      ```
 
-## 🔗 Features (Planned)
+## Features (Planned)
 
 - User authentication (JWT)
 - Genre and movie browsing
